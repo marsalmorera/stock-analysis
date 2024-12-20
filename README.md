@@ -28,19 +28,19 @@ Consumer Cyclical: 10%
 <img width="564" alt="Captura de pantalla 2024-12-20 a les 7 04 32" src="https://github.com/user-attachments/assets/d1cf5de7-9a23-43b6-a1d5-1a0d44f55745" />
 
 Current Price Statistics:
-Mean: $230.29
-Median: $126.82
-Standard Deviation: $521.99
-Min: $8.56 | Max: $8,946.33
-Interquartile Range: $71.54 (Q1) - $239.19 (Q3)
-Observations
+- Mean: $230.29
+- Median: $126.82
+- Standard Deviation: $521.99
+- Min: $8.56 | Max: $8,946.33
+- Interquartile Range: $71.54 (Q1) - $239.19 (Q3)
+- Observations
 Stock prices exhibit high variability, with a positively skewed distribution due to the presence of high-value stocks.
 The interquartile range provides a more reliable snapshot of typical prices, excluding outliers.
 
 Next Steps
 
-Perform detailed EDA to identify key trends and sector performance.
-Investigate the relationship between sector representation and stock performance.
+- Perform detailed EDA to identify key trends and sector performance.
+- Investigate the relationship between sector representation and stock performance.
 
 Data Source
 
