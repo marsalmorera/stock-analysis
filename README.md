@@ -37,6 +37,17 @@ Current Price Statistics:
 Stock prices exhibit high variability, with a positively skewed distribution due to the presence of high-value stocks.
 The interquartile range provides a more reliable snapshot of typical prices, excluding outliers.
 
+Visual Insights with Tablaeu 
+
+To complement the analysis, a comprehensive Tableau dashboard was developed to visualize key trends and insights within the dataset. The dashboard highlights annual returns by sector, revenue growth trends, sector distribution, and stock performance by market capitalization. Key elements include:
+
+- Annual Returns by Sector: A table showcasing sector performance across multiple years, offering a clear view of growth trends.
+- Revenue Growth: A bubble chart visualizing revenue growth rates by sector, emphasizing leaders like Financial Services and Technology.
+- Sector Distribution: A treemap displaying the composition of the S&P 500 by sector, highlighting dominant sectors such as Technology and Industrials.
+- Stock Market Capitalization: A bar chart ranking top companies by market cap, showcasing industry giants like Apple (AAPL) and Nvidia (NVDA).
+  
+This visualization provides an intuitive and interactive way to explore the dataset, making complex data accessible and actionable. Go to Talbaeu dashboard [Link](https://public.tableau.com/views/sp_dasboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 Next Steps
 
 - Perform detailed EDA to identify key trends and sector performance.
