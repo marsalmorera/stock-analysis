@@ -12,27 +12,21 @@ Dataset Description
 
 The dataset comprises three primary components:
 
-Index Data: Daily price of the S&P 500 index, representing overall market performance.
-Stock Data: Daily stock prices for individual companies.
-Company Data: Detailed metrics for each company, including sector, market cap, and financial indicators.
-Key Columns
-Date: Date of record.
-Symbol: Ticker symbol identifying the company.
-Sector: Broad industry classification (e.g., Technology, Healthcare).
-Currentprice: Most recent stock price.
-Volume: Total number of shares traded on a given day.
-Marketcap: Total market value of a company’s outstanding shares.
-Ebitda: A measure of profitability before interest, taxes, depreciation, and amortization.
-Revenuegrowth: Percentage change in revenue between periods.
-Weight: Company's market cap weight within the S&P 500.
+- Index Data: Daily price of the S&P 500 index, representing overall market performance.
+- Stock Data: Daily stock prices for individual companies.
+- Company Data: Detailed metrics for each company, including sector, market cap, and financial indicators.
+
 Insights from the Data
 
-Sector Representation:
+Sector Distribution:
 Technology: 16%
 Industrials: 14%
 Financial Services: 13%
 Healthcare: 12%
 Consumer Cyclical: 10%
+
+<img width="564" alt="Captura de pantalla 2024-12-20 a les 7 04 32" src="https://github.com/user-attachments/assets/d1cf5de7-9a23-43b6-a1d5-1a0d44f55745" />
+
 Current Price Statistics:
 Mean: $230.29
 Median: $126.82
@@ -42,11 +36,12 @@ Interquartile Range: $71.54 (Q1) - $239.19 (Q3)
 Observations
 Stock prices exhibit high variability, with a positively skewed distribution due to the presence of high-value stocks.
 The interquartile range provides a more reliable snapshot of typical prices, excluding outliers.
+
 Next Steps
 
 Perform detailed EDA to identify key trends and sector performance.
 Investigate the relationship between sector representation and stock performance.
-Explore predictive modeling with currentprice as the target variable.
+
 Data Source
 
 The dataset and additional documentation are available on Kaggle.
