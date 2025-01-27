@@ -56,3 +56,5 @@ Next Steps
 Data Source
 
 The dataset and additional documentation are available on Kaggle.
+
+[Trello](https://trello.com/invite/b/6764481cc3567a4e21241b26/ATTI85e6dc8bf26ce3a348e7be14d76a68bd66992FC5/midproject)
